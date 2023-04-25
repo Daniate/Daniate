@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Daniate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniate)
+![Daniate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daniate&show_icons=true&theme=github_dark)
+
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Daniate)
 
 <!--
 **Daniate/Daniate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
